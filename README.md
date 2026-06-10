@@ -78,3 +78,6 @@ Dropout, L2 regularization, and Batch Normalization for generalization
 Learning rate scheduling (ReduceLROnPlateau)
 Model evaluation using Precision, Recall, F1-score, and classification reports
 
+Quick Mentions:
+Python · TensorFlow/Keras · Scikit-learn · Pandas · NumPy · SciPy · Matplotlib · Seaborn · Jupyter Notebook · Google Colab
+
